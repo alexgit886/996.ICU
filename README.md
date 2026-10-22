@@ -1,10 +1,3 @@
-**Raising our voices against the unjust treatment of the programmer in Chengde, this case has a tremendously negative impact and is far more severe than the 996 issue.**
-
-Link: [Chinese Programmer Fined Three Years' Salary for Working for Overseas Company Using VPN](https://www.reddit.com/r/China/comments/16qzbil/chinese_programmer_fined_three_years_salary_for/)
-
-![image](https://github.com/996icu/996.ICU/assets/48942249/4e1906eb-ac5b-4b33-9470-bf422a345fba)
-
-
 [996.ICU](https://996.icu/#/en_US)
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
@@ -23,7 +16,7 @@ Related press coverage:
 ---
 * *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
 * *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
-* *Wired:* [How github is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+* *Wired:* [How GitHub is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
 
 See a [full list of press](externals/news_EN.md)
 
@@ -90,11 +83,11 @@ Community powers
  - [996.RIP](https://web.archive.org/web/20190422174052/https://996.rip/) Old news never vanished.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
- - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
+ - [996.OD](https://github.com/zhouF96/996.OD) occupational diseases are the forewarning of ICU.
  - [996.Q](https://github.com/alexddhuang/996.Q) A repository to collect mocks, jokes, or gags about 996. 
  - [996.survey](https://github.com/0594mazhiyuan/996.survey) A survey of the status of 996.
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
- - [996.Blockchain](https://github.com/996BC/996.Blockchain) Blockchain for the 996 evidence
+ - [996.Blockchain](https://github.com/996BC/996.Blockchain) Blockchain for the 996 evidence.
  - [996.Error](https://github.com/MagicLu550/996Error) Collect "996" exceptions written in various languages and can be used directly in the project.
 
 Where are the issues?

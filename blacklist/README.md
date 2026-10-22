@@ -44,6 +44,7 @@
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
+|杭州|[彩讯股份](https://www.richinfo.cn/)|2025年01月|十年社保只有五天年假(严重违法)，每月义务加班4.5天不等，绩效按加班时长排| [年假01](img/caixun01.png)、[年假02](img/caixun02.png)、[无偿加班](img/caixun03.png)|
 |天津|[云账户](https://www.yunzhanghu.com/)|2019年6月|大小周|[公司邮件](https://i.loli.net/2021/08/22/PKcnGhmfQ64OT18.png)|
 |北京|[中国农业银行研发中心](http://www.abchina.com/cn/)|2015年1月|996无偿加班，降薪|[脉脉员工发多个帖子1300+评论](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNzlhYTRlOWIwYTIxMTFlYzg4NTBlNDQzNGIyZmE4ODgiLCJ1IjoyMjU2OTYxNTcsImlkIjoyOTM1MjMxOH0.Hrz8kApYUk4jt8-AG8daEbT7s6Dy6jvX56m3YNVVblo&share_channel=2&_share_channel=wechat) / [帖子2](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZGM0MmFkYmQwYmJhMTFlY2JkZTZlNDQzNGIyZmE4ODgiLCJ1Ijo3NzA0NDc0MSwiaWQiOjI5MzYwODA2fQ._s1E-UBE0b_BIyDjJJOqYBU6UOnHMNO3F6QERm-K3qw&share_channel=2&_share_channel=wechat) / [知乎帖子](https://www.zhihu.com/question/484172369?utm_source=wechat_session&utm_medium=social&utm_oi=1101404494474088448&utm_content=group1_supplementQuestions&utm_campaign=shareopn)|
 |上海|[百安居](https://www.bthome.com/)|2019年6月|996|领导口头描述|
@@ -277,3 +278,4 @@
 |上海|上海电信CRM项目组|2019年5月|每天至少工作12小时，周末采取大小周|[群聊截图1](img/上海电信CRM1.png)，[群聊截图2](img/上海电信CRM2.png)，[报道链接](http://www.shftth.com/news/2019-6-13/981.html)|
 |广州|北京滴普科技有限公司|2019年10月底|群里宣布10106/996,请假还需报备|[聊天记录截图1](img/dipu996record1.jpg),[聊天记录截图2](img/dipu996record2.jpg),[看准网](https://www.kanzhun.com/gso7687290.html?ka=com1-title)|  
 |北京|北京信安世纪科技股份有限公司 / 北京华耀科技有限公司|2023年4月|985，明确表明20:00前的加班不算加班，不统计进调休时间内。|[内部邮件](https://s2.loli.net/2023/07/15/ZxDV1dOP4pzj5cS.png), [OA打卡记录](https://s2.loli.net/2023/07/15/Yzxy16MepKkZXbn.png)|
+|天津|北京安华金和科技有限公司-天津研发中心|2025年3月|某大领导为赶所谓的进度群里要求晚上加班到21:00以后，周六也要来上班|[内部群截图1](img/北京安华金和-天津研发中心-内部群截图.jpg)|
